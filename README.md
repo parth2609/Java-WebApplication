@@ -1,2 +1,2 @@
 # Java-WebApplication
-JAVA(Servlet)+HTML
+Servlet+HTML
